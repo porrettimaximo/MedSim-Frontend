@@ -1,6 +1,6 @@
 # 🩺 MedSim
 
-**MedSim** es una plataforma de simulación médica avanzada construida con React y Three.js.
+**MedSim** es una plataforma de simulación médica avanzada.
 
 ## 🏗️ Arquitectura del Proyecto
 
